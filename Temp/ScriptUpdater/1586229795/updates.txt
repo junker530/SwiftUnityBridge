@@ -1,0 +1,1 @@
+Temp/ScriptUpdater/1586229795/835018309_LipSyncCore.cs => Assets/LipSync/Core/LipSyncCore.cs
